@@ -12,7 +12,7 @@
 搭建在微信公众平台上的报修系统。自2016年投入使用，是目前主要的网络报修途径。
 
 ### 成员工作系统
-
+值班时要用到的系统。
 
 ### Wiki百科
 网络维护科Wiki百科收录了校园网使用过程中可能遇到的问题及其解决方案。
@@ -67,5 +67,7 @@
 - 了解任意一门后端语言或框架
 
 ## 如何加入我们？
-https://goo.gl/forms/igqXE5eI0teGuXWw1
+https://goo.gl/forms/9sYR8e7EXJOV89353
 
+## FAQ
+Any problems? go [HERE](https://github.com/ZSCNetSupportDept/About/issues).
